@@ -1,19 +1,20 @@
 ### Hi there 👋
 
-<!--
-**MichaelW1996/MichaelW1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on finishing a Bootcamp
+- 🌱 I’m currently learning TypeScript
+- 📫 How to reach me: Create an issue against this repo, ill read it (promise)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once competed in a national robotics contest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Progression & Projects
 
+  Im still new at this, keep an eye on this space for any new projects 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelW1996&show_icons=true)
+  ## Collaboration
+
+  If you like my stuff or think i'd be a good fit for your project contact me, id be delighted to contribute.
+
+  ##Stats for nerds(mainly myself)
+
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelW1996&show_icons=true)
