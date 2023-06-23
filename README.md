@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on finishing a Bootcamp
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning GraphQL
 - 📫 How to reach me: Create an issue against this repo, ill read it (promise)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once competed in a national robotics contest
