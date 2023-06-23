@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning GraphQL
 - 📫 How to reach me: Create an issue against this repo, ill read it (promise)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once competed in a national robotics contest
-
+- ⚡ Fun fact: I once competed in a national robotics competition.
+  
   ## Progression & Projects
 
   Im still new at this, keep an eye on this space for any new projects 
