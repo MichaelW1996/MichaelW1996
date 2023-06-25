@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on finishing a Bootcamp
+- 🔭 I’m currently working on a messaging app where users add their own encryption
 - 🌱 I’m currently learning GraphQL
 - 📫 How to reach me: Create an issue against this repo, ill read it (promise)
 - 😄 Pronouns: He/Him
