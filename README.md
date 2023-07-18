@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on a messaging app where users add their own encryption
 - 🌱 I’m currently learning GraphQL
-- 📫 How to reach me: Create an issue against this repo, ill read it (promise)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once competed in a national robotics competition.
   
