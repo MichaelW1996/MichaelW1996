@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a messaging app where users add their own encryption
-- 🌱 I’m currently learning GraphQL
+- 🔭 I’m currently working on a programs to intake, sanitize, manipulate & query data
+- 🌱 I’m currently learning Data Engineering
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once competed in a national robotics competition.
   
